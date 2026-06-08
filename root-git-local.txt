@@ -1,1 +1,2 @@
 root-git-local file
+Second Line as root-git-local
